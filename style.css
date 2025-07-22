@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.eb-garamond {
+    font-family: "EB Garamond", serif;
+    font-style: normal;
+  }
+
+.banner {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.956), rgba(255, 255, 255, 0.072)), url(/legal-solution-resources/images/banner.png);
+}
+.poster{
+    background-image: url(legal-solution-resources/images/Rectangle\ 7.png), url(legal-solution-resources/images/banner.png);
+}

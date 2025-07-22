@@ -11,8 +11,8 @@
   }
 
 .banner {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.956), rgba(255, 255, 255, 0.072)), url(/legal-solution-resources/images/banner.png);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.956), rgba(255, 255, 255, 0.072)), url(images/banner.png);
 }
 .poster{
-    background-image: url(legal-solution-resources/images/Rectangle\ 7.png), url(legal-solution-resources/images/banner.png);
+    background-image: url(legal-solution-resources/images/Rectangle\ 7.png), url(images/banner.png);
 }
